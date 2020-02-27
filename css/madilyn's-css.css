@@ -1,0 +1,21 @@
+.uppercase{
+    text-transform: uppercase;
+}
+p{
+    text-indent: 1rem;
+}
+img{
+    width: fit-content;
+}
+em{
+    font-style: italic;
+}
+q{
+    font-style: italic;
+}
+i{
+    font-style: italic;
+}
+blockquote{
+    font-style: italic;
+}
