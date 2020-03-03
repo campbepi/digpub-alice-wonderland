@@ -2,10 +2,10 @@
     text-transform: uppercase;
 }
 p{
-    text-indent: 1rem;
+    text-indent: 2.5%;
 }
 img{
-    max-width: 50%;
+    max-width: 25%;
 }
 em{
     font-style: italic;
@@ -18,4 +18,14 @@ i{
 }
 blockquote{
     font-style: italic;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+body{
+    margin-left: 10%;
+    margin-right: 10%;
 }
