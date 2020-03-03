@@ -5,7 +5,7 @@ p{
     text-indent: 1rem;
 }
 img{
-    width: fit-content;
+    max-width: 50%;
 }
 em{
     font-style: italic;
