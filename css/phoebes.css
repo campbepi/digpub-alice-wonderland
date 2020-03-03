@@ -1,0 +1,36 @@
+.uppercase {
+    text-transform: uppercase;
+}
+
+.italicized {
+    font-style: italic;
+}
+
+.poem {
+    text-indent: 0%;
+}
+
+img {
+    max-width: 25%;
+    margin-left: 35%;
+    margin-right: 30%;
+}
+
+h3 {
+    font-size: 400%;
+    text-align: center;
+}
+
+h4 {
+    font-size: 200%;
+    text-align: center;
+}
+
+p {
+    text-indent: 2.5%;
+}
+
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
